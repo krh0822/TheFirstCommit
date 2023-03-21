@@ -1,2 +1,2 @@
-email :
-gitID :
+email : klh4650@cau.ac.kr
+gitID : krh0822
